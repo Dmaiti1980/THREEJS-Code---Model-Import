@@ -1,0 +1,6 @@
+.baseContainer {
+    margin: 0;;
+}   
+.arcball-rotator .arcball-rotator-orbit {
+    display: none;
+} 
